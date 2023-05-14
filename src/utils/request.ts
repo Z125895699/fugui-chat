@@ -18,7 +18,7 @@ class Request {
     data = {},
     header = {
       "Content-Type":"application/json",
-      "Authorization":"Bearer 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"
+      "Authorization":"Bearer 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"
     },
   }: RequestOptions): Promise<T> {
     return new Promise((resolve, reject) => {

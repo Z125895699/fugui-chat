@@ -5,6 +5,12 @@
 			"style": {
 				"navigationBarTitleText": "富贵chat"
 			}
+		},
+		{
+			"path": "pages/me/index",
+			"style": {
+				"navigationBarTitleText": "me"
+			}
 		}
 	],
 	"globalStyle": {
